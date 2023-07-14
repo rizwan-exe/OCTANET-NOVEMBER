@@ -1,5 +1,5 @@
 Speed - Cycle Ecommerce Website
-Speed Logo
+
 
 Welcome to the Speed repository! Speed is a simple HTML, CSS, JS, and Bootstrap-based cycle ecommerce website. This repository contains the source code for the homepage of the website, which includes sections such as "About Us," "Contact Us," and showcases our range of cycles.
 
